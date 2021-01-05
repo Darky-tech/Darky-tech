@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with documentation
 - 💬 Ask me about anything related to technology
 - 📫 How to reach me: (Twitter - https://twitter.com/imDarky3)
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I learn all this to make a bot on the discord
 
 
